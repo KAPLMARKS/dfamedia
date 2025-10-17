@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "425429254049",
+    "project_id": "dfamedia-53257",
+    "storage_bucket": "dfamedia-53257.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425429254049:android:94c2e7e7f755c65d9d15e0",
+        "android_client_info": {
+          "package_name": "com.example.dfamedia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCicrdeKs7zulnHlw1C5qxp4Fa0OuPclYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
